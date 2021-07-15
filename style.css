@@ -1,0 +1,143 @@
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px;
+    line-height: 0;
+    font-weight: normal;
+}
+
+p {
+    margin-bottom: 50px;
+}
+
+.t-text {
+    color: #363958;
+}
+
+.name {
+    color: #FF8367;
+}
+
+.half-width {
+    width: 30%;
+    margin-left: 7%;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    float: left;
+}
+
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 60px;
+    line-height: 0;
+    font-weight: normal;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+section {
+    height: 500px;
+    margin-bottom: 150px;
+}
+
+.top {
+    margin-bottom: 80px;
+}
+
+.botton {
+    border-radius: 5px;
+    margin-top: 40px;
+    text-decoration: none;
+    padding: 15px 20px;
+    background-color: #FFFFFF;
+    background-image: linear-gradient( #ff8361, #FF8367);
+    color: white;
+    font-weight: bold;
+}
+
+.work-text {
+    padding-bottom: 70px;
+    font-size: 40px;
+    margin-right: 130px;
+    text-align: center;
+}
+
+.work {
+    padding-left: 10%;
+    padding-top: 7%;
+    padding-bottom: 5%;
+    background-color: rgb(247, 249, 252);
+    height: 500px;
+}
+
+#just-about {
+    background-color: #FFFFFF;
+}
+
+.workimg {
+    width: 25%;
+    height: 65%;
+    float: left;
+    margin-left: 30px;
+    background-color: white;
+    box-shadow: 13px 10px 22px 20px #f2f2f2;
+    border-radius: 10px;
+    padding: 4px 10px 1px 10px;
+}
+
+.workimg img {
+    width: 100%;
+}
+
+.work-inquariy {
+    background-image: url(shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    align-items: center;
+    width: 719px;
+    height: 183px;
+    margin-left: 301px;
+}
+
+.work-inquariy h2 {
+    color: #FFFFFF;
+}
+
+.onimg {
+    text-decoration: none;
+    padding-left: 30px;
+    padding-top: 36px;
+    margin-left: 50px;
+    float: left;
+}
+
+#first-text {
+    margin-top: 140px;
+}
+
+.chat {
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 15px 20px;
+    color: #FFFFFF;
+    background-image: linear-gradient( #ff8361, #FF8367);
+    color: white;
+    font-weight: bold;
+}
+
+#chata {
+    margin-top: 41px;
+    margin-left: 116px;
+}
+
+#firstimg {
+    margin-top: 96px;
+}
+
+footer {
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+}
